@@ -1,12 +1,12 @@
 ## Competencies:
-> 4021.1.1: Introduction to Abstract Data Types, Algorithms, and Data Structures Using Bags (unordered lists) - The graduate explains how to design abstract data types (ADTs), data structures to represent an ADT in storage, algorithms to manipulate ADTs (using the Bag ADT as an example), describes bag data types, and the use of both sequential and linked allocation to implement them.
-> 4021.1.2: Introduction to Analysis of Algorithms - The graduate analyzes the time and space complexity of basic algorithms.
-> 4021.1.3: Stacks, Queues, and Deques - The graduate describes design, specification, implementation of stacks, queues, and deques, and implements a simple application using sequentially allocated queues as well as stacks that employ a linked allocation.
-> 4021.1.4: Lists - The graduate describes design, specification, and implementation of list structures.
-> 4021.1.5: Sorting and Sorted Lists - The graduate identifies basic selection and insertion sorting algorithms, as well as faster sorting algorithms, and describes the design and implementation of sorted lists.
-> 4021.1.6: Basic Searching Algorithms and Associative ADTs - The graduate describes how to use searching algorithms for lists, and explains the concept of a dictionary as an associative ADT.
-> 4021.1.7: Hashing Algorithms and Structures - The graduate describes hash tables, bucket hashing, this use as an efficient way to implement an associative ADT, and implements a simple application that uses bucket hashing.
-> 4021.1.8: Tree Structures - The graduate describes tree structures and binary trees, and implements a simple application involving building and searching a binary tree.
+* 4021.1.1: Introduction to Abstract Data Types, Algorithms, and Data Structures Using Bags (unordered lists) - The graduate explains how to design abstract data types (ADTs), data structures to represent an ADT in storage, algorithms to manipulate ADTs (using the Bag ADT as an example), describes bag data types, and the use of both sequential and linked allocation to implement them.
+* 4021.1.2: Introduction to Analysis of Algorithms - The graduate analyzes the time and space complexity of basic algorithms.
+* 4021.1.3: Stacks, Queues, and Deques - The graduate describes design, specification, implementation of stacks, queues, and deques, and implements a simple application using sequentially allocated queues as well as stacks that employ a linked allocation.
+* 4021.1.4: Lists - The graduate describes design, specification, and implementation of list structures.
+* 4021.1.5: Sorting and Sorted Lists - The graduate identifies basic selection and insertion sorting algorithms, as well as faster sorting algorithms, and describes the design and implementation of sorted lists.
+* 4021.1.6: Basic Searching Algorithms and Associative ADTs - The graduate describes how to use searching algorithms for lists, and explains the concept of a dictionary as an associative ADT.
+* 4021.1.7: Hashing Algorithms and Structures - The graduate describes hash tables, bucket hashing, this use as an efficient way to implement an associative ADT, and implements a simple application that uses bucket hashing.
+* 4021.1.8: Tree Structures - The graduate describes tree structures and binary trees, and implements a simple application involving building and searching a binary tree.
 
 ### Introduction:
 
